@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Pavan Rakesh Reddy Chirla 👋
+# Hi, I'm Pavan Rakesh Chirla 👋
 💻 **Software Engineer | MS in Computer Science @ USC**
 
 I am passionate about solving complex problems through technology. Currently, I'm pursuing my Master's in Computer Science at the University of Southern California (USC). My interest lies in Software Development, Distributed Systems, and Machine Learning.
